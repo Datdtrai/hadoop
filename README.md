@@ -1,6 +1,7 @@
 ### What is that ??
 - This is all file and direction to create and run a cluster hadoop with image docker has name image-hadoop, include:
   - Dockerfile 
+  - ConfiFiles
   - Hadoop
   - Java
   - runall.sh
