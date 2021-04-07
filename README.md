@@ -14,4 +14,4 @@
  - Now, you was in master container of a hadoop cluster
  - Final, you start the hadoop cluster by command: start-all.sh (or start-dfs.sh and start-yarn.sh)
  - You can exit this container by command: 'exit' or use hot key 'Ctrl + P + Q'. So, if you want attach again any container, you can use attach, exec, ... or any service was support by docker, don't forget 'bash' in the end of command.
- * Note: the cluster has 1 name node (hadoop1) and 3 data node(hadoop1, hadoop2, hadoop3)
+ * Note: the cluster has 1 name node (hadoop1) and 3 data node (hadoop1, hadoop2, hadoop3)
